@@ -1,1 +1,0 @@
-# loginvalidator.github.io
